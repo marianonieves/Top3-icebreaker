@@ -13,6 +13,7 @@ const seeds = [
   ['🤔','TOP-3 señales que una persona te va a caer bien','narian'],
   ['🤔','TOP-3 señales que una persona te va a caer mal (prejuicios)','asdf'],
   ['🤔','TOP-3 excusas para cancelar un plan','sebas'],
+  ['🤔','TOP-3 planes perfectos para una primera cita','weby']
   ['😂','TOP-3 proceres de tu país','sebas'],
   ['😂','TOP-3 de buzzwords (palabras que se usan en corpos)','sebas'],
   ['😂','TOP-3 hechos históricos de tu país','sebas'],
@@ -38,4 +39,4 @@ const seeds = [
   ['🍕','TOP-3 de formas de comer papa','narian'],
   ['🍕','TOP-3 de formas de comer queso','asdf'],
   ['🍕','TOP-3 de ingredientes de picada','sebas'],
-  ['❤️','TOP-3 planes perfectos para una primera cita','weby']];
+];
