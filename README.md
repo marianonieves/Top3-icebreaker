@@ -1,12 +1,19 @@
-# TOP3 icebreaker.
+# NIEVES GAMES — Free Icebreaker Toolkit
 
-Una consigna. Tres respuestas. Mil conversaciones.
+Party-style icebreakers for in-person work teams across LATAM. Free to play and no sign-in required.
 
-A game to discover and share TOP-3 prompts with friends.
+## Play
 
-- Play without signing in; sign in only to add a TOP-3.
-- Edit the starter prompts and authors in [`top3-data.js`](top3-data.js).
-- Version: v0.2
-- More projects: https://nieves.games
+- [Toolkit landing](https://marianonieves.github.io/icebreakerToolkit/)
+- [TOP3 icebreaker](https://marianonieves.github.io/icebreakerToolkit/top3/)
 
-GitHub Pages URL will change once the repository is renamed.
+## Structure
+
+- `index.html`: toolkit landing and games catalog.
+- `top3/index.html`: the TOP3 icebreaker game.
+- `top3/top3-data.js`: editable TOP3 prompts and authors.
+- Additional games will live in their own folders as they launch.
+
+Remote/distributed-team experiences are planned but not available yet.
+
+NIEVES GAMES: https://nieves.games/
